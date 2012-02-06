@@ -27,7 +27,7 @@ set preserveindent
 "-----------FileType specific commands------------------------------------"
 
 " Ruby
-autocmd FileTYpe ruby setlocal expandtab shiftwidth=2 tabstop=2 softtabstop=2
+autocmd FileType ruby setlocal expandtab shiftwidth=2 tabstop=2 softtabstop=2
 
 " Python
 autocmd FileType python setlocal expandtab shiftwidth=4 tabstop=4 softtabstop=4

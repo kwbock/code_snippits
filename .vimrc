@@ -12,6 +12,7 @@ set number                      "turn linenumbers on
 set ignorecase                  "ignore case for searches
 set smartcase                   "unless we tell you to
 set showmatch                   "show matching brackets
+set pastetoggle=<F2>
 
 "-----------Indents and Tabs----------------------------------------------"
 set autoindent                  "set cursor at same indent as prev line
